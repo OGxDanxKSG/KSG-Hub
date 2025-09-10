@@ -5,4 +5,4 @@ discord: unknown
 2025 Zolo Obfuscator®
 ]]
 
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/c8175db5df9efb6cf735509f2ae2f060"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/f7617edad3284f4878c29aeb7dde30ba"))()
