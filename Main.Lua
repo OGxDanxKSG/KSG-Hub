@@ -1,8 +1,1 @@
-
---[[
-Obfuscatored by Zolo Obfuscator
-discord: unknown
-2025 Zolo Obfuscator®
-]]
-
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/f7617edad3284f4878c29aeb7dde30ba"))()
+return(function(...)local f={"\073\054\088\117\114\106\053\048\087\097\061\061";"\067\081\089\118\112\109\083\061";"\102\054\121\103\108\074\121\054\049\080\066\107\089\070\056\089\122\097\061\061","\056\113\088\118\121\083\073\109\056\119\109\098\106\...
